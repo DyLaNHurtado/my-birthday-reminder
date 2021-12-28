@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Birthday Reminder</string>
+    <string name="botMenu_notifications">Notificaciones</string>
+    <string name="botMenu_home">Inicio</string>
+    <string name="botMenu_settings">Ajustes</string>
+    <string name="toolbar_search">Buscar</string>
+    <string name="toolbar_add">Añadir</string>
+    <string name="logo_text">My Birthday Reminder</string>
+    <string name="addBirthday_name">Nombre</string>
+    <string name="addBirthday_birthdate">Fecha de nacimiento</string>
+    <string name="addBirthday_cancel">Cancelar</string>
+    <string name="addBirthday_attachImage">Adjuntar imagen</string>
+    <string name="addBirthday_save">Guardar</string>
+    <string name="itemList_turns">Cumple</string>
+    <string name="itemList_ContentDescripcion_custom_image">Imagen customizada</string>
+    <string name="OnClick_talk">Hablar</string>
+    <string name="OnClick_delete">Borrar</string>
+    <string name="OnClick_edit">Editar</string>
+    <string name="aboutUs_text">
+        <p>Esta app fue desarrollada por <b>DyLaNHurtado</b>.</p>
+        <p>Cualquier <b>comentario</b> o pregunta puedes contactar a traves de este <b>email</b>:</p>
+        <p><a href="mailto:dylanhurtado43@gmail.com"><b>dylanhurtado43@gmail.com</b></a></p><br/>
+        <div>Iconos creados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> desde <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+    </string>
+    <string name="talkOption_chooser_title">Habla con…</string>
+    <string name="notificationTitle"><b>Cumpleaños encontrado!</b></string>
+    <string name="notificationTextPart1">Hoy es el cumpleaños de </string>
+    <string name="notificationTextPart2"> no te olvides decirle feliz cumpleaños</string>
+    <string name="insertTextHint">Feliz Cumpleaños! …</string>
+    <string name="insertTextLabel">Inserta un mensaje para enviar</string>
+    <string name="inputButtonSend">Enviar</string>
+    <string name="inputButtonCancel">Cancelar</string>
+    <string name="settingsAnimations">Animaciones</string>
+    <string name="settingsSlow">Lento</string>
+    <string name="settingsNormal">Normal</string>
+    <string name="settingsFast">Rápido</string>
+    <string name="settingsAbout_us">Sobre nosotros</string>
+    <string name="chooseFile">Elige archivo</string>
+    <string name="errorValidate">\"No se pudo agregar la información, validación incorrecta ingrese datos correctos  \"</string>
+    <string name="failedPermisions">\"Sin permisos no podrá adjuntar imágenes \"</string>
+</resources>

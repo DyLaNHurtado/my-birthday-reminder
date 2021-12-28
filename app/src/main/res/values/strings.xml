@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Birthday Reminder</string>
+    <string name="botMenu_notifications">Notifications</string>
+    <string name="botMenu_home">Home</string>
+    <string name="botMenu_settings">Settings</string>
+    <string name="toolbar_search">Search</string>
+    <string name="toolbar_add">Add</string>
+    <string name="logo_text">My Birthday Reminder</string>
+    <string name="addBirthday_name">Name</string>
+    <string name="addBirthday_birthdate">Birthdate</string>
+    <string name="addBirthday_cancel">Cancel</string>
+    <string name="addBirthday_attachImage">Attach Image</string>
+    <string name="addBirthday_save">Save</string>
+    <string name="itemList_turns">Turns</string>
+    <string name="itemList_ContentDescripcion_custom_image">Custom image</string>
+    <string name="OnClick_talk">Talk</string>
+    <string name="OnClick_delete">Delete</string>
+    <string name="OnClick_edit">Edit</string>
+    <string name="aboutUs_text">
+        <p>This app was developed by <b>DyLaNHurtado</b>.</p>
+        <p>Any <b>feedback</b> or question you can contact in this <b>email</b>:</p>
+        <p><a href="mailto:dylanhurtado43@gmail.com"><b>dylanhurtado43@gmail.com</b></a></p><br/>
+        <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+    </string>
+    <string name="talkOption_chooser_title">Talk with…</string>
+    <string name="notificationTitle"><b>Birthday found!</b></string>
+    <string name="notificationTextPart1">Today is the birthday of </string>
+    <string name="notificationTextPart2"> don\'t forget to say happy birthday</string>
+    <string name="insertTextHint">Happy Birthday! …</string>
+    <string name="insertTextLabel">Insert message to send</string>
+    <string name="inputButtonSend">Send</string>
+    <string name="inputButtonCancel">Cancel</string>
+    <string name="settingsAnimations">Animations</string>
+    <string name="settingsSlow">Slow</string>
+    <string name="settingsNormal">Normal</string>
+    <string name="settingsFast">Fast</string>
+    <string name="settingsAbout_us">About us</string>
+    <string name="chooseFile">Choose File</string>
+    <string name="errorValidate">\"The information could not be added, incorrect validation enter correct data \"</string>
+    <string name="failedPermisions">\"Without permissions you will not be able to attach images \"</string>
+</resources>

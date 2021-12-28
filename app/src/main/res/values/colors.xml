@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#28232D</color>
+    <color name="purple_background">#372442</color>
+    <color name="green_primaryColor">#5FF5A8</color>
+    <color name="yellow_secundaryColor">#E3B036</color>
+    <color name="blue_secundaryColor">#3670E3</color>
+    <color name="white_extraColor">#F5F5F5</color>
+    <color name="gray_extraColor">#424034</color>
+</resources>

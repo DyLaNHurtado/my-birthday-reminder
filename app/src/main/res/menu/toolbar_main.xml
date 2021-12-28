@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/toolbar_add"
+        android:icon="@drawable/add_icon"
+        android:onClick="openAddBirthdayActivity"
+        android:title="@string/toolbar_add"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/toolbar_settings"
+        android:icon="@drawable/settings_icon"
+        android:onClick="openSettingsActivity"
+        android:title="@string/botMenu_settings"
+        app:showAsAction="ifRoom|withText"/>
+</menu>
